@@ -1,6 +1,6 @@
 cask "worksync" do
-  version "0.2.1"
-  sha256 "0b50e80308cb8d0072bda6afa99ef99a827fb77041d7ee4db135405a68f39ad0"
+  version "0.3.0"
+  sha256 "d4b1b0a2e65a566b64e87f739991679b24ca2f3eaaef9224f4736d165ce28e84"
 
   url "https://github.com/gAmUssA/worksync/releases/download/v#{version}/WorkSync-v#{version}-arm64.tar.gz",
       verified: "github.com/gAmUssA/worksync/"
